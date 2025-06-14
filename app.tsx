@@ -27,12 +27,12 @@ import { getAuth, signInAnonymously, onAuthStateChanged, type User } from "fireb
 // Default configuration - replace with your Firebase config
 const DEFAULT_APP_ID = "default-app-id"
 const DEFAULT_FIREBASE_CONFIG = {
-  apiKey: "demo-api-key",
-  authDomain: "demo-project.firebaseapp.com",
-  projectId: "demo-project",
-  storageBucket: "demo-project.appspot.com",
-  messagingSenderId: "123456789",
-  appId: DEFAULT_APP_ID,
+  apiKey: "AIzaSyDHmCtgynMTLsxLjGVvR-FEh7sN3-0H0jo",
+  authDomain: "sample-chat-appp.firebaseapp.com",
+  projectId: "sample-chat-appp",
+  storageBucket: "sample-chat-appp.firebasestorage.app",
+  messagingSenderId: "53107530515",
+
 }
 
 export default function App() {
